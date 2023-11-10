@@ -1,2 +1,2 @@
 # studiesOfJavascript
-These are my studies of JS.
+These are my notes of the JS course by Bro Code.
